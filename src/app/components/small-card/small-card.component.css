@@ -19,6 +19,10 @@
   margin-left: 10px;
 }
 
+.small-card_title > h2 > a{
+  color: #fff;
+}
+
 .container_small-card_separation {
   margin-bottom: 10px;
 }

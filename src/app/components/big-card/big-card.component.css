@@ -18,7 +18,7 @@
   font-weight: bold;
 }
 
-.big-card__title {
+.big-card__title > h2 > a {
   width: 66%;
   margin-top: 6px;
   margin-left: 48px;

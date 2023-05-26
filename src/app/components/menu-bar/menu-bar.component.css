@@ -7,5 +7,10 @@
 .container_menu-bar > ul > li {
  margin-right: 20px;
  list-style: none;
+ color: white;
+}
+
+.container_menu-bar > ul > li > a  {
+  color: rgb(218, 39, 48);
 }
 
